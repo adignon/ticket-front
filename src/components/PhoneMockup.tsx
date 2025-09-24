@@ -9,7 +9,7 @@ export const PhoneMockup: React.FC = () => {
     <div className="relative">
       {/* Phone frame */}
       <img
-        src="/public/Devicedemo.png"
+        src="/assets/images/Devicedemo.png"
         style={{
           maxHeight:originalDimensions.height*0.8,
           width:"100%",
